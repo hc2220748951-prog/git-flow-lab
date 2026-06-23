@@ -16,3 +16,6 @@ Another teammate update.
 Remote-side update.
 Local-only update.
 Urgent documentation fix.
+
+## Draft stash experiment
+This is unfinished work that should not be committed yet.
