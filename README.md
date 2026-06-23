@@ -19,3 +19,5 @@ Urgent documentation fix.
 
 ## Draft stash experiment
 This is unfinished work that should not be committed yet.
+
+Reflog rescue line.
